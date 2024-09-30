@@ -6,6 +6,6 @@ permalink: /about
 
 # Tom's Portfolio
 
-Isn't it great!
+**Isn't it great!**
 
 
