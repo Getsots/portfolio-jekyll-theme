@@ -41,5 +41,4 @@ plt.ylabel('Values')
 plt.show()
 ```
 
-## Conclusion
-This simple data analysis showcases how to load and visualize data using Pandas and Matplotlib. You can easily extend this notebook with more complex data and visualizations to further demonstrate your skills.
+
