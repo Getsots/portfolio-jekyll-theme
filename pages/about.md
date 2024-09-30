@@ -1,14 +1,17 @@
 ---
 layout: page
-title: About
+title: About You
 permalink: /about
 ---
 
 # Tom's Portfolio
 
-Hi, I'm Tom, a data analyst student in London. I'm learning data visualisation and analysis, with a focus on presenting insights clearly and effectively. This notebook showcases my ability to work with Python libraries like Pandas and Matplotlib.
+Hi, I'm Tom Kern, a data analyst student from London, England. I'm learning data visualisation and analysis, with a focus on presenting insights clearly and effectively. This notebook showcases my ability to work with Python libraries like Pandas and Matplotlib.
 
-Education: MBA 
+Education: BA International Relations, Leeds University and MBA, Imperial College
 
-Skills: Data Visualisation, Python, Machine Learning
+Industry: Engineering
 
+My professional interests: Data Visualisation, Python, Machine Learning
+
+My personal interests: Travelling and surfing
