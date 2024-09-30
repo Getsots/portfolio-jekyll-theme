@@ -1,10 +1,13 @@
-# Analyzing Sample Data with Python
-This notebook provides a brief demonstration of how to analyze data using Python. We'll load a dataset, visualize it, and provide some insights. This notebook is customizable and can be used as part of a data analysis portfolio.
+---
+layout: post
+title: "Using Jupyter Notebooks with GitHub Pages"
+date: 2024-01-01
+---
 
 ## About Me
-Hi, I'm [Your Name], a data analyst based in [Your Location]. I specialize in data visualization and analysis, with a focus on presenting insights clearly and effectively. This notebook showcases my ability to work with Python libraries like Pandas and Matplotlib.
+Hi, I'm Tom, a data analyst student in London. I'm learning data visualisation and analysis, with a focus on presenting insights clearly and effectively. This notebook showcases my ability to work with Python libraries like Pandas and Matplotlib.
 
-**Education**: B.Sc. in Data Science
+**Education**: MBA
 **Skills**: Data Visualization, Python, Machine Learning
 
 
